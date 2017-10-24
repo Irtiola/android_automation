@@ -1,2 +1,3 @@
-# android_automation
-Appium 
+# ruby-webdriver-cucumber
+Automated testing with Ruby, Selenium Webdriver and Cucumber
+"# android_automation" 
